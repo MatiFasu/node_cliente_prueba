@@ -1,0 +1,24 @@
+{
+  "perfil": [
+    {
+      "nombre": "Pedro",
+      "email": "pedro@gmail.com",
+      "id": "c9f7293f-157d-459c-bc3b-97a97f2dfeda"
+    },
+    {
+      "nombre": "Gabriela",
+      "email": "gabi@gmail.com",
+      "id": "cfec7d0a-81c1-4c35-b37c-4199ac80d90c"
+    },
+    {
+      "nombre": "Matias",
+      "email": "matias@gmail.com",
+      "id": "314bf47e-a2e5-481c-808c-ee2fe1308025"
+    },
+    {
+      "nombre": "Hector",
+      "email": "hector@gmail.com",
+      "id": "06b58a81-e02c-4513-9bbe-e3eaa6fa6472"
+    }
+  ]
+}
